@@ -1,7 +1,6 @@
 # ultrasonic
 Measure distance using ultrasonic module HC-SR04.
 
-<br>
 [![YouTube Video](https://img.youtube.com/vi/8LJG5taczFg/maxresdefault.jpg)](https://www.youtube.com/watch?v=8LJG5taczFg) </br>
 https://www.youtube.com/watch?v=8LJG5taczFg
 
